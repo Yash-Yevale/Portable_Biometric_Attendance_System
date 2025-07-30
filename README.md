@@ -1,7 +1,7 @@
 # Portable_Biometric_Attendance_System
 
 # Steps to run this project.
-1.Download XAMPP and Run Apache and MySQL Servers.
+1.Download XAMPP and Run Apache and MySQL Servers.<br>
 2.Put this whole file inside XAMPP-htdocs.
 3.Now come towards hardware all components are given and circuit diagram is also attached refer that.
 4.Now Install Arduino IDE.
